@@ -8,7 +8,7 @@ Installation instructions based on: `https://www.gamingonlinux.com/articles/firs
       cd ~
       mkdir libraries
       cd libraries
-      git clone https://github.com/ChristophHaag/openvr.git
+      git clone https://github.com/ValveSoftware/openvr.git
       cd openvr
       mkdir build
       cd build
